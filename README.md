@@ -9,11 +9,16 @@ I am a rising Junior Electrical Engineering student at Case Western Reserve Univ
 ## About Me
 
 * Strong foundation in **circuit design**, **embedded systems**, **robotics**, and **control-oriented software**.
-* Experienced in designing and simulating electrical systems, developing intelligent hardware, and building robust software tools.
+* Experienced in designing and simulating electrical systems.
 * Interested in opportunities involving **R&D**, **Co-op**, **internships**, and **research labs**.
 * Dedicated to producing high-quality engineering solutions backed by disciplined design, simulation, and implementation.
 
 ---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](http://www.linkedin.com/in/tiekoura-ouattara)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/tiekoura_ouattara/)
 
 ## Technical Skills
 
@@ -102,12 +107,11 @@ Thanks for stopping by! Always building, always learning — feel free to explor
 
 
 
----
 
-## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](http://www.linkedin.com/in/tiekoura-ouattara)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/tiekoura_ouattara/)
+
+
+
 
 ---
 
