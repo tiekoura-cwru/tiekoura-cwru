@@ -6,7 +6,7 @@ I am a rising Junior Electrical Engineering student at Case Western Reserve Univ
 
 ---
 
-## 🎯 About Me
+## About Me
 
 * Strong foundation in **circuit design**, **embedded systems**, **robotics**, and **control-oriented software**.
 * Experienced in designing and simulating electrical systems, developing intelligent hardware, and building robust software tools.
@@ -15,7 +15,7 @@ I am a rising Junior Electrical Engineering student at Case Western Reserve Univ
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 ### **Programming Languages**
 
@@ -40,7 +40,7 @@ I am a rising Junior Electrical Engineering student at Case Western Reserve Univ
 
 ---
 
-## 📚 Education
+## Education
 
 **Case Western Reserve University – Cleveland, OH**
 **Master of Science, Electrical Engineering** (Integrated Program) — *Expected May 2028*
@@ -61,16 +61,8 @@ I am a rising Junior Electrical Engineering student at Case Western Reserve Univ
 
 ---
 
-## 🚧 Projects
+## Projects
 
-### **Advanced Gomoku (JavaFX)**
-
-A custom implementation of the Gomoku board game featuring:
-
-* Rule enforcement: overlines, double-threes, double-fours
-* Dynamic board sizing
-* Full UI/UX implementation in JavaFX
-* Efficient pattern-detection algorithms
 
 ### **Electrical Engineering Design Tools**
 
@@ -114,8 +106,8 @@ Thanks for stopping by! Always building, always learning — feel free to explor
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](YOUR_INSTAGRAM_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin)](http://www.linkedin.com/in/tiekoura-ouattara)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram)](https://www.instagram.com/tiekoura_ouattara/)
 
 ---
 
