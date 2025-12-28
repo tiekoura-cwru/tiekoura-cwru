@@ -1,6 +1,6 @@
 # Hi, I'm Tiekoura
 
-`Electrical Engineering Major (Circuits/Robotics)`
+`Electrical Engineering Major (Circuits & Robotics & Computer Hardware)`
 
 I am a rising Junior Electrical Engineering student at Case Western Reserve University pursuing an Integrated Master’s in Electrical Engineering with specializations in **Circuits**, **Computer Hardware**, and **Robotics**, and a minor in **Computer Engineering**. . I am passionate about developing innovative, efficient, and human-centered technologies through hands-on engineering, problem-solving, and collaborative research.
 
