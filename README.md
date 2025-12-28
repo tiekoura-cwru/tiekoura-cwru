@@ -14,7 +14,7 @@ I am a rising Junior Electrical Engineering student at Case Western Reserve Univ
 *Expected May 2028*  
 **Minor:** Computer Engineering  
 **Concentrations:** Circuits & Robotics  
-**Cumulative GPA:** 3.93 / 4.0 | **Major GPA:** 4.0 / 4.0
+**Cumulative GPA:** 3.949 / 4.0 | **Major GPA:** 4.0 / 4.0
 
 ---
 
